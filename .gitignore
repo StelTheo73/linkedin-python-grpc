@@ -161,5 +161,6 @@ cython_debug/
 
 # virtualenv components
 bin/
+include/
 lib64
 pyvenv.cfg
